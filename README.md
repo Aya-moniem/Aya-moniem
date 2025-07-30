@@ -1,11 +1,9 @@
 <h2 align="center">Hi 👋! My name is Aya and full-stack developer, from Egypt.</h2>
 
-<div style="text-align: center;">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
-    style="height: 350px;"
-  />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" height="350" />
+</p>
+
 
 
 
